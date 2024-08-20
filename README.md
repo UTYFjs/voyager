@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+prettier and eslint install for next 14.2.5
+
+npm install --save-dev @next/eslint-plugin-next @typescript-eslint/eslint-plugin@7.2.0@typescript-eslint/parser@7.2.0 eslint-plugin-react eslint-plugin-react-hooks
+
+npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
+
+npm install --save-dev eslint-plugin-import
+
+npm install --save-dev eslint-plugin-jsx-a11y

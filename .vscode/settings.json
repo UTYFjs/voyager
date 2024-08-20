@@ -1,0 +1,14 @@
+{
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.stylelintIntegration": true,
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "eslint.autoFixOnSave": "explicit"
+  },
+}
